@@ -14,7 +14,7 @@ pipeline {
         }
 		//Code ends for stage Build
 		
-		
+		//test line
 		//Code starts for stage Tomcat Server Up
 		stage('Tomcat Server Up') {
             steps {
